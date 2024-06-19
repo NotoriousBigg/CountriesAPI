@@ -16,4 +16,4 @@ Now test your api by visiting
 ```
 http://localhost:8080/api/countries
 ```
-Code by: (@EscaliBud)[https://t.me/EscaliBud]
+Code by: [@EscaliBud](https://t.me/EscaliBud)
